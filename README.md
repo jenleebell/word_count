@@ -8,6 +8,7 @@
 
 ## Installation
 * Install this application by cloning the repository at https://github.com/jenleebell/word_count
+* You may use and launch the application by typing in the following url into your browser https://radiant-oasis-8996.herokuapp.com/
 
 ## Technologies
 This application was written in Ruby.
