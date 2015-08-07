@@ -1,13 +1,18 @@
 # Word_Count
 
-##### This application will check how frequently a word appears in a given sentence.
+##### Count a word in a sentence.
 
-#### Author: Jennifer Bell
+##### Author: Jennifer Bell
 
-## This application will take a given sentence and count the amount of times a given word appears within that sentence. It is not case sensitive.
+#### This application will take a given sentence and count the amount of times a given word appears within that sentence. It is not case sensitive.
 
 ## Installation
 * Install this application by cloning the repository at https://github.com/jenleebell/word_count
+
+## Technologies
+This application was written in Ruby.
+
+## Legal
 
 Copyright (c) 2015 **Jennifer Bell**
 
